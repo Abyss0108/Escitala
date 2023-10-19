@@ -1,4 +1,4 @@
-<template>
+a<template>
   <div>
     <h1>Codificar</h1>
     <input v-model="message" placeholder="Enter the message" />
