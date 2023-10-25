@@ -33,5 +33,3 @@ function escitalaDecrypt(encryptedMessage: string, turns: number): string {
 
   return matrix.flat().join('');
 }
-
-// Luego, en tus componentes Vue, puedes usar estas funciones en las funciones encode y decode
